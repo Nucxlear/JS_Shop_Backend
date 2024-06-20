@@ -1,0 +1,23 @@
+{
+  "name": "js_shop_backend",
+  "version": "1.0.0",
+  "description": "backend",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nucxlear/JS_Shop_Backend.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nucxlear/JS_Shop_Backend/issues"
+  },
+  "homepage": "https://github.com/Nucxlear/JS_Shop_Backend#readme",
+  "dependencies": {
+    "express": "^4.19.2",
+    "mongodb": "^6.7.0"
+  }
+}
